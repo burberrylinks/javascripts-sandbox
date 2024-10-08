@@ -36,3 +36,21 @@ do {
   console.log("I am in the loop");
   x++;
 } while (x <= 2);
+
+
+// continue statement and break statement 
+
+for(let i =0; 1 < 3; i++){
+
+  // perform action
+
+if (1 === 2){
+  break;
+}
+}
+
+// continue and break
+ 
+let X = 1;
+
+
